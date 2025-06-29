@@ -11,7 +11,7 @@
 
 ---
 
-### About Me
+### 👋 About Me
 
 Two Main Projects I'm Working on Right Now:
 - Hyphaworks: Developing an app to control environmental conditions within autonomous grow beds for mushroom production
