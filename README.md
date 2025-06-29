@@ -2,8 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=Alisson235&label=Profile%20views&color=0e75b6&style=flat" alt="Alisson235" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Alisson</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Sawyer</h1>
+<h3 align="center">A VC Analyst and Full-Stack Developer in My Spare Time</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Code.+Design.+Build.;Let%E2%80%99s+walk+and+work+together+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
@@ -11,12 +11,11 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 👨‍💻 I’m focused on building sleek UIs with modern frontend tools  
-- 🏃 I love walking — clears my mind and inspires my workflow  
-- 👯 I’m open to collaborating on web apps and frontend systems  
-- 🎯 My goal: Build interfaces that feel like magic ✨  
+Two Main Projects I'm Working on Right Now:
+- Hyphaworks: Developing an app to control environmental conditions within autonomous grow beds for mushroom production
+- Palspot: A new type of location-based social network leveraging LLM's
 
 ---
 
