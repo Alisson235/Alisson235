@@ -35,7 +35,7 @@ Two Main Projects I'm Working on Right Now:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sawyer&show_icons=true&theme=radical" alt="Sawyer's GitHub stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alisson235&show_icons=true&theme=radical" alt="Sawyer's GitHub stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Alisson235&theme=radical&hide_border=true" width="400"/>
 </p>
 
