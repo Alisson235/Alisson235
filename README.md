@@ -6,7 +6,7 @@
 <h3 align="center">A VC Analyst and Full-Stack Developer in My Spare Time</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Code.+Design.+Build.;Let%E2%80%99s+work+together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Code.+Design.+Build.;Let%E2%80%99s+work+together." alt="Typing SVG" />
 </p>
 
 ---
