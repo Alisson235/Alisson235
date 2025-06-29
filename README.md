@@ -1,12 +1,12 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Alisson235&label=Profile%20views&color=0e75b6&style=flat" alt="Alisson235" />
+  <img src="https://komarev.com/ghpvc/?username=SawyerHall25&label=Profile%20views&color=0e75b6&style=flat" alt="SawyerHall25" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sawyer</h1>
 <h3 align="center">A VC Analyst and Full-Stack Developer in My Spare Time</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Code.+Design.+Build.;Let%E2%80%99s+walk+and+work+together+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Code.+Design.+Build.;Let%E2%80%99s+walk+and+work+together+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,8 +35,8 @@ Two Main Projects I'm Working on Right Now:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alisson235&show_icons=true&theme=radical" alt="Sawyer's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alisson235&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SawyerHall25&show_icons=true&theme=radical" alt="Sawyer's GitHub stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SawyerHall25&theme=radical&hide_border=true" width="400"/>
 </p>
 
 ---
@@ -45,10 +45,10 @@ Two Main Projects I'm Working on Right Now:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alisson235&repo=DevBoard&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SawyerHall25&repo=DevBoard&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alisson235&repo=DevQuotes&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SawyerHall25&repo=DevQuotes&theme=buefy" />
 </a>
 
 ---
@@ -56,7 +56,7 @@ Two Main Projects I'm Working on Right Now:
 ### ☕ Let's Connect
 
 <p align="left">
-  <a href="https://github.com/Alisson235" target="_blank">
+  <a href="https://github.com/SawyerHall" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
